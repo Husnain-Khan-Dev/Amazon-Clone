@@ -21,7 +21,7 @@
 }
 
 .logo {
-  background: url(amazone\ logo.png);
+  background: url(amazon\ logo.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -379,13 +379,12 @@ spawn {
   font-size: 0.8rem;
 }
 
-.linkfirst{
+.linkfirst {
   width: 110px;
 }
 
 .link2nd {
   color: #999999;
-  
 }
 
 .otherslink_one {
@@ -401,40 +400,40 @@ spawn {
   padding-top: 30px;
 }
 
-.fb1{
+.fb1 {
   margin-top: -15px;
 }
 
-.fb2{
+.fb2 {
   width: 110px;
   margin-top: -30px;
 }
 
-.fb3{
+.fb3 {
   margin-top: -29px;
 }
 
-.fb4{
+.fb4 {
   margin-top: -30px;
 }
 
-.fb5{
+.fb5 {
   margin-top: -14px;
 }
 
-.fb6{
+.fb6 {
   margin-top: -14px;
 }
 
-.fb7{
+.fb7 {
   width: 110px;
 }
 
-.fb8{
+.fb8 {
   margin-top: -14px;
 }
 
-.copyright{
+.copyright {
   height: 70px;
   width: 100%;
   background-color: #131a22;
@@ -442,12 +441,12 @@ spawn {
   font-size: 0.8rem;
 }
 
-.clink{
+.clink {
   display: flex;
   justify-content: center;
   gap: 12px;
 }
 
-.cright{
+.cright {
   text-align: center;
 }
